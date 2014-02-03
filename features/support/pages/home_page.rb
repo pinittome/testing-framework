@@ -9,6 +9,7 @@ class HomePage
   button(:submit, :type => "submit")
 
   def login_to_owned_board
+    pending
     #login
     #set name
     #set password
@@ -16,6 +17,7 @@ class HomePage
   end
   
   def login_to_unowned_board
+    pending
     #login
     #set name
     #set password
